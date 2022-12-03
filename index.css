@@ -1,0 +1,68 @@
+body{
+    margin: auto;
+    background-color: black;
+    color: aliceblue;
+}
+.bg-dark{
+    background-color: black;
+    color: white;
+}
+
+/* .bg-bright{
+    background-color: white;
+    color: black;
+} */
+
+.second-container{
+    background-color: rgb(27, 25, 25);
+    border-radius: 1rem;
+}
+.text-center{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.items-centre{
+    align-items: center;
+}
+
+.btn{
+    padding: 1.2rem 1.5rem;
+    margin: 0 3px;
+    border-radius: 50%;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border-style: none;
+    
+}
+.btn-padding-1rem{
+    padding: 1.1rem;
+}
+
+.btn-padding-per{
+    padding: 1.2rem 1.4rem;
+}
+.row{
+    margin: 8px 0;
+}
+
+div .input{
+    padding: 20px 30px;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    margin-bottom: 0.5rem;
+    text-align: right;
+    border-radius: 1rem;
+    
+}
